@@ -1,10 +1,10 @@
 
 1. Support subFolder consists these 2 files 
-  commands.js
+  commands.js,
   cypress.config.js
 
 2. Fixtures subFolder consists these 2 files
-   example.json
+   example.json,
    index.html
 
 3.e2e subFolder consists of only 1 file
