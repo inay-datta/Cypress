@@ -11,7 +11,7 @@
   spec1.cy.js
 
 4. cypress main folder has these 3 subfolders
-   1.e2e
-   2.Fixtures
+   1.e2e,
+   2.Fixtures,
    3.Support
  
